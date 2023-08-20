@@ -2,6 +2,7 @@
 #include<fstream.h>   
 #include<ctype.h>      
 #include<iomanip.h>  
+#include<bits/stdc++.h>
 using namespace std; 
 
 class acc     			
@@ -330,7 +331,7 @@ cout<<"\n\n\tTO DEPOSITE AMOUNT ";
 void intro( )
 {
     cout<<"\n\n\n\tWelcome To XYZ BANK MANAGEMENT SYSTEM";
-    cout<<"\n\nA C++ Code Project by Student, Student At Army School Ranikhet";
+    cout<<"\n\nA C++ Code Project by Student, Student At KIIT University";
     cout<<"\nPress Enter To Continue........";
     cin.get();
 }
